@@ -11,7 +11,7 @@ with open("MODULE 1/device.json") as f:
 
 
 vlan_ID = "60"
-vlan_NAME = "MANGO"
+vlan_NAME = "FINANCE"
 
 
 for device in devices:
